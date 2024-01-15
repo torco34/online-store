@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <header>tienda en line</header>
+
       <Layout >
         <h2>hola mundo</h2>
       </Layout>
